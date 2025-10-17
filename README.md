@@ -1,6 +1,15 @@
 # URI JARED GOPAR MORALES
+Nota debes tener Instalado Express
 
-# Prueba Técnica – Backend Developer
+```
+LAS RUTAS DE LA API SON LAS SIGUIENTES:
+- GET http://localhost:3000/paths -> devuelve todas las rutas completas
+- GET http://localhost:3000/category/:(NUMERO id) -> devuelve la categoría correspondiente al id
+```
+
+### Se ejecuta con node index.js
+
+## Prueba Técnica – Backend Developer
 
 
 ## Contexto:
